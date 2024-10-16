@@ -79,3 +79,17 @@ public class Outputs {
 //
 //7-Assigment)
 //Output:
+// Available Lectures:
+//1. Video Title (Proxy): Introduction to Design Patterns
+//2. Video Title (Proxy): Understanding the Proxy Pattern
+//3. Video Title (Proxy): Implementing the Flyweight Pattern
+//
+//Playing the second lecture...
+//Loading video: Understanding the Proxy Pattern...
+//Video Understanding the Proxy Pattern loaded.
+//Playing video: Understanding the Proxy Pattern
+//
+//Playing the first lecture...
+//Loading video: Introduction to Design Patterns...
+//Video Introduction to Design Patterns loaded.
+//Playing video: Introduction to Design Patterns
