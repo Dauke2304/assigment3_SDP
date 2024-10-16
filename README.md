@@ -1,14 +1,12 @@
 1-Assigment)
-  Output:
-
+Output:
 Playing MP3 file. Name: song.mp3
 Playing WAV file. Name: sound.wav
 Playing AAC file. Name: music.aac
 Unsupported format: flac
 
 2-Assigment)
-  Output:
-
+Output:
 TV is powered on.
 TV channel set to 5
 TV volume set to 15
@@ -23,7 +21,7 @@ Sound System volume set to 10
 Sound System is powered off.
 
 3-Assigment)
-  Output:
+Output:
 Main Menu, All available items
 ---------------------
 
@@ -43,17 +41,15 @@ Drinks Menu, Beverages
 ---------------------
   Soda, $1.99
      -- Refreshing soda
-
-
+     
 4-Assigment)
-  Output:
+Output:
 
 Margherita Pizza, Cheese, Mushrooms Cost: $9.49
 Vegetarian Pizza, Cheese, Cheese, Pepperoni Cost: $12.74
 
 5-Assigment)
-  Output:
-  
+Output:
 Arriving home...
 Lights are ON
 Thermostat set to 22 degrees
@@ -77,10 +73,10 @@ Security system armed
 Entertainment system OFF
 
 6-Assigment)
-  Output:
+Output:
 
 7-Assigment)
-  Output:
+Output:
 
 
 
