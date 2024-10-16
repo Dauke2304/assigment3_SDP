@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="Basic remote class">
+    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="main, cheking code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +196,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729086362815</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="AdvancedRemote class created">
+      <option name="closed" value="true" />
+      <created>1729102399490</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1729102399490</updated>
+    </task>
+    <task id="LOCAL-00019" summary="main, cheking code">
+      <option name="closed" value="true" />
+      <created>1729102558645</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1729102558645</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +235,8 @@
     <MESSAGE value="SS device created" />
     <MESSAGE value="Remote Control class" />
     <MESSAGE value="Basic remote class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic remote class" />
+    <MESSAGE value="AdvancedRemote class created" />
+    <MESSAGE value="main, cheking code" />
+    <option name="LAST_COMMIT_MESSAGE" value="main, cheking code" />
   </component>
 </project>
