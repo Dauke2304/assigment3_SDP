@@ -1,22 +1,21 @@
-import assigment5.*;
+import assigment7.*;
 public class Main {
     public static void main(String[] args) {
-        Light light = new Light();
-        Thermostat thermostat = new Thermostat();
-        SecuritySystem securitySystem = new SecuritySystem();
-        EntertainmentSystem entertainmentSystem = new EntertainmentSystem();
+        // Create the course and add video lectures (proxies)
+        OnlineCourse course = new OnlineCourse();
+        course.addLecture(new ProxyVideoLecture("Introduction to Design Patterns"));
+        course.addLecture(new ProxyVideoLecture("Understanding the Proxy Pattern"));
+        course.addLecture(new ProxyVideoLecture("Implementing the Flyweight Pattern"));
 
-        // Create the facade
-        SmartHomeFacade smartHome = new SmartHomeFacade(light, thermostat, securitySystem, entertainmentSystem);
+        // Display the list of available lectures
+        course.showLectureList();
 
-        // Simulate different actions
-        smartHome.arriveHome();
-        System.out.println();
-        smartHome.movieMode();
-        System.out.println();
-        smartHome.nightMode();
-        System.out.println();
-        smartHome.leaveHome();
+        // Play the second lecture, which will trigger lazy loading
+        System.out.println("\nPlaying the second lecture...");
+        course.playLecture(1);
 
+        // Play the first lecture
+        System.out.println("\nPlaying the first lecture...");
+        course.playLecture(0);
 }
 }
