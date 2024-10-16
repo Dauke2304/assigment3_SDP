@@ -6,9 +6,17 @@ public class AudioAdapter implements AudioPlayer {
 
     public AudioAdapter(String audioType) {
         if (audioType.equalsIgnoreCase("wav")) {
-            advancedAudioPlayer = new AdvancedAudioPlayer(); // Can handle WAV
+            advancedAudioPlayer = new AdvancedAudioPlayer();
         } else if (audioType.equalsIgnoreCase("aac")) {
-            advancedAudioPlayer = new AdvancedAudioPlayer(); // Can handle AAC
+            advancedAudioPlayer = new AdvancedAudioPlayer();
+        }
+    }
+    @Override
+    public void play(String audioType, String fileName) {
+        if (audioType.equalsIgnoreCase("wav")) {
+            advancedAudioPlayer.playWAV(fileName);
+        } else if (audioType.equalsIgnoreCase("aac")) {
+            advancedAudioPlayer.playAAC(fileName);
         }
     }
 
