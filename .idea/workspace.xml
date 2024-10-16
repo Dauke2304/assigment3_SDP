@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="DVD class created" />
+    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="Basic remote class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729083649355</updated>
-      <workItem from="1729083650624" duration="2489000" />
+      <workItem from="1729083650624" duration="2921000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -170,7 +172,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729086161685</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="SS device created">
+      <option name="closed" value="true" />
+      <created>1729086237186</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1729086237186</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Remote Control class">
+      <option name="closed" value="true" />
+      <created>1729086300932</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1729086300932</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Basic remote class">
+      <option name="closed" value="true" />
+      <created>1729086362815</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1729086362815</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +216,9 @@
     <MESSAGE value="Device interface" />
     <MESSAGE value="TV device created" />
     <MESSAGE value="DVD class created" />
-    <option name="LAST_COMMIT_MESSAGE" value="DVD class created" />
+    <MESSAGE value="SS device created" />
+    <MESSAGE value="Remote Control class" />
+    <MESSAGE value="Basic remote class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic remote class" />
   </component>
 </project>
