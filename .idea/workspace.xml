@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="The decorator class was created">
-      <change afterPath="$PROJECT_DIR$/src/assigment4/CheeseTopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assigment4/MushroomTopping.java" afterDir="false" />
-    </list>
+    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="checking in main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729083649355</updated>
-      <workItem from="1729083650624" duration="4416000" />
+      <workItem from="1729083650624" duration="5182000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -277,15 +274,29 @@
       <option name="project" value="LOCAL" />
       <updated>1729105620547</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="concreate topping classes were created, added a extra costs">
+      <option name="closed" value="true" />
+      <created>1729105763209</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1729105763209</updated>
+    </task>
+    <task id="LOCAL-00029" summary="checking in main">
+      <option name="closed" value="true" />
+      <created>1729105822359</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1729105822359</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init" />
-    <MESSAGE value="interface AudioPlayer" />
     <MESSAGE value="MP3Player class" />
     <MESSAGE value="Wav and AAC interfacses" />
     <MESSAGE value="AdvancedAudioPlayer class" />
@@ -309,6 +320,8 @@
     <MESSAGE value="pizza inteface" />
     <MESSAGE value="pizzas)" />
     <MESSAGE value="The decorator class was created" />
-    <option name="LAST_COMMIT_MESSAGE" value="The decorator class was created" />
+    <MESSAGE value="concreate topping classes were created, added a extra costs" />
+    <MESSAGE value="checking in main" />
+    <option name="LAST_COMMIT_MESSAGE" value="checking in main" />
   </component>
 </project>
