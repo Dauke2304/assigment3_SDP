@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="Testing the 3 assigment, by gpt examples">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="The decorator class was created">
+      <change afterPath="$PROJECT_DIR$/src/assigment4/CheeseTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assigment4/MushroomTopping.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729083649355</updated>
-      <workItem from="1729083650624" duration="4107000" />
+      <workItem from="1729083650624" duration="4416000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -252,7 +253,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729103378809</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="pizza inteface">
+      <option name="closed" value="true" />
+      <created>1729105410774</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1729105410774</updated>
+    </task>
+    <task id="LOCAL-00026" summary="pizzas)">
+      <option name="closed" value="true" />
+      <created>1729105524721</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1729105524721</updated>
+    </task>
+    <task id="LOCAL-00027" summary="The decorator class was created">
+      <option name="closed" value="true" />
+      <created>1729105620547</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1729105620547</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +306,9 @@
     <MESSAGE value="MenuComponent" />
     <MESSAGE value="MenuItem" />
     <MESSAGE value="Testing the 3 assigment, by gpt examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing the 3 assigment, by gpt examples" />
+    <MESSAGE value="pizza inteface" />
+    <MESSAGE value="pizzas)" />
+    <MESSAGE value="The decorator class was created" />
+    <option name="LAST_COMMIT_MESSAGE" value="The decorator class was created" />
   </component>
 </project>
