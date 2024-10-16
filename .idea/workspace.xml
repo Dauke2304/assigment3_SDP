@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="MP3Player class">
-      <change afterPath="$PROJECT_DIR$/src/assigment1/WAVPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="AudioAdapter 2 part" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729083649355</updated>
-      <workItem from="1729083650624" duration="1144000" />
+      <workItem from="1729083650624" duration="1510000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -83,7 +80,39 @@
       <option name="project" value="LOCAL" />
       <updated>1729084722936</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Wav and AAC interfacses">
+      <option name="closed" value="true" />
+      <created>1729084861840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729084861840</updated>
+    </task>
+    <task id="LOCAL-00005" summary="AdvancedAudioPlayer class">
+      <option name="closed" value="true" />
+      <created>1729084978155</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729084978155</updated>
+    </task>
+    <task id="LOCAL-00006" summary="AudioAdapter 1 part">
+      <option name="closed" value="true" />
+      <created>1729085054094</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729085054094</updated>
+    </task>
+    <task id="LOCAL-00007" summary="AudioAdapter 2 part">
+      <option name="closed" value="true" />
+      <created>1729085100200</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729085100201</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +122,10 @@
     <MESSAGE value="init" />
     <MESSAGE value="interface AudioPlayer" />
     <MESSAGE value="MP3Player class" />
-    <option name="LAST_COMMIT_MESSAGE" value="MP3Player class" />
+    <MESSAGE value="Wav and AAC interfacses" />
+    <MESSAGE value="AdvancedAudioPlayer class" />
+    <MESSAGE value="AudioAdapter 1 part" />
+    <MESSAGE value="AudioAdapter 2 part" />
+    <option name="LAST_COMMIT_MESSAGE" value="AudioAdapter 2 part" />
   </component>
 </project>
