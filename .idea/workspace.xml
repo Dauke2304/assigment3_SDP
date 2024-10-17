@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="OnlineCourse">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="9b35977b-cba4-48c7-87c1-460463341e43" name="Changes" comment="Character and its factory update">
+      <change afterPath="$PROJECT_DIR$/src/assigment6/TextEditor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729083649355</updated>
       <workItem from="1729083650624" duration="6319000" />
-      <workItem from="1729150841704" duration="708000" />
+      <workItem from="1729150841704" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -391,14 +391,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729108415868</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Character and its factory update">
+      <option name="closed" value="true" />
+      <created>1729151756652</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1729151756652</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Device interface" />
     <MESSAGE value="TV device created" />
     <MESSAGE value="DVD class created" />
     <MESSAGE value="SS device created" />
@@ -423,6 +430,7 @@
     <MESSAGE value="RealVideoLecture" />
     <MESSAGE value="ProxyVideoLecture" />
     <MESSAGE value="OnlineCourse" />
-    <option name="LAST_COMMIT_MESSAGE" value="OnlineCourse" />
+    <MESSAGE value="Character and its factory update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Character and its factory update" />
   </component>
 </project>
