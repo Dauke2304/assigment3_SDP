@@ -76,6 +76,16 @@ public class Outputs {
 //
 //6-Assigment)
 //Output:
+// Creating new character: 'D' in font: Arial, size: 14
+// Creating new character: 'a' in font: Arial, size: 14
+// Creating new character: 'u' in font: Arial, size: 14
+// Creating new character: 'k' in font: Arial, size: 14
+// Creating new character: 'e' in font: Arial, size: 14
+// Rendering character 'D' at (10, 10) in font: Arial, size: 14
+// Rendering character 'a' at (20, 10) in font: Arial, size: 14
+// Rendering character 'u' at (30, 10) in font: Arial, size: 14
+// Rendering character 'k' at (40, 20) in font: Arial, size: 14
+// Rendering character 'e' at (50, 20) in font: Arial, size: 14
 //
 //7-Assigment)
 //Output:
