@@ -5,7 +5,6 @@ public class Character {
     private String font;
     private int size;
 
-
     public Character(char symbol, String font, int size) {
         this.symbol = symbol;
         this.font = font;

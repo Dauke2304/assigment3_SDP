@@ -3,6 +3,9 @@ package assigment6;
 import java.util.HashMap;
 import java.util.Map;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class CharacterFactory {
     private Map<String, Character> characterPool = new HashMap<>();
 
